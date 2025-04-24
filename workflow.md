@@ -13,7 +13,13 @@ You can then proceed to creating more pages for your web app.
 
 Start by prompting the AI to something along this statement:
 
+"You are a senior product manager working on a saas app."
+
+**FOR UI/FRONTEND
+
 "If I want to turn this into a proper web app in [YOUR TECH STACK], what UI components should I create? (Don't generate any code yet, just think and plan for now, and also just focus on minimal amount of UI components)."
+
+**FOR BACKEND
 
 "Write a detailed plan/spec for a saas app I want to build where I can [APP DESCRIPTION]. Ask me questions to help fill out any gaps in what this app should be."
 
